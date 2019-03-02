@@ -1,0 +1,13 @@
+/Users/andreslopez/Documents/XCode/XamarinTVNews/XamarinTVNews/bin/iPhoneSimulator/Debug/XamarinTVNews.exe
+/Users/andreslopez/Documents/XCode/XamarinTVNews/XamarinTVNews/bin/iPhoneSimulator/Debug/XamarinTVNews.pdb
+/Users/andreslopez/Documents/XCode/XamarinTVNews/XamarinTVNews/obj/iPhoneSimulator/Debug/device-builds/appletv6.2-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/andreslopez/Documents/XCode/XamarinTVNews/XamarinTVNews/obj/iPhoneSimulator/Debug/device-builds/appletv6.2-12.1/actool/_PartialAppManifest.items
+/Users/andreslopez/Documents/XCode/XamarinTVNews/XamarinTVNews/obj/iPhoneSimulator/Debug/device-builds/appletv6.2-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/andreslopez/Documents/XCode/XamarinTVNews/XamarinTVNews/obj/iPhoneSimulator/Debug/device-builds/appletv6.2-12.1/coremlc/_PartialAppManifest.items
+/Users/andreslopez/Documents/XCode/XamarinTVNews/XamarinTVNews/obj/iPhoneSimulator/Debug/device-builds/appletv6.2-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/andreslopez/Documents/XCode/XamarinTVNews/XamarinTVNews/obj/iPhoneSimulator/Debug/device-builds/appletv6.2-12.1/optimized/
+/Users/andreslopez/Documents/XCode/XamarinTVNews/XamarinTVNews/obj/iPhoneSimulator/Debug/XamarinTVNews.csprojAssemblyReference.cache
+/Users/andreslopez/Documents/XCode/XamarinTVNews/XamarinTVNews/obj/iPhoneSimulator/Debug/XamarinTVNews.csproj.CoreCompileInputs.cache
+/Users/andreslopez/Documents/XCode/XamarinTVNews/XamarinTVNews/obj/iPhoneSimulator/Debug/XamarinTVNews.exe
+/Users/andreslopez/Documents/XCode/XamarinTVNews/XamarinTVNews/obj/iPhoneSimulator/Debug/XamarinTVNews.pdb
+/Users/andreslopez/Documents/XCode/XamarinTVNews/XamarinTVNews/obj/iPhoneSimulator/Debug/device-builds/appletv6.2-12.1/optimized/loading.png

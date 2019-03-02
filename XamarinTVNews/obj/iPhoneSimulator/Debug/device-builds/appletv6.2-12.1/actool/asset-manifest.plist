@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.actool.compilation-results</key>
+	<dict>
+		<key>output-files</key>
+		<array>
+			<string>/Users/andreslopez/Documents/XCode/XamarinTVNews/XamarinTVNews/obj/iPhoneSimulator/Debug/device-builds/appletv6.2-12.1/actool/bundle/Assets.car</string>
+			<string>/Users/andreslopez/Documents/XCode/XamarinTVNews/XamarinTVNews/obj/iPhoneSimulator/Debug/device-builds/appletv6.2-12.1/actool/OnDemandResources/com.examples.XamarinTVNews.Loading.assetpack/Assets.car</string>
+			<string>/Users/andreslopez/Documents/XCode/XamarinTVNews/XamarinTVNews/obj/iPhoneSimulator/Debug/device-builds/appletv6.2-12.1/actool/partial-info.plist</string>
+		</array>
+	</dict>
+	<key>com.apple.actool.document.warnings</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Image.imageset/[car][][][2x][][][][][][][][][][2d][(null)]</string>
+				<string>./Image.imageset/[car][][][3x][][][][][][][][][][2d][(null)]</string>
+				<string>./Image.imageset/[car][][][][][][][][][][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/andreslopez/Documents/XCode/XamarinTVNews/XamarinTVNews/obj/iPhoneSimulator/Debug/device-builds/appletv6.2-12.1/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Image" has 3 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+	</array>
+</dict>
+</plist>

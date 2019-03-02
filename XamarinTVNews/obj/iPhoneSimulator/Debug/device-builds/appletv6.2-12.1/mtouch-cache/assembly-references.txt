@@ -1,0 +1,9 @@
+/Users/andreslopez/Documents/XCode/XamarinTVNews/XamarinTVNews/bin/iPhoneSimulator/Debug/XamarinTVNews.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.15/lib/mono/Xamarin.TVOS/mscorlib.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.15/lib/mono/Xamarin.TVOS/Xamarin.TVOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.15/lib/mono/Xamarin.TVOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.15/lib/mono/Xamarin.TVOS/Mono.Security.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.15/lib/mono/Xamarin.TVOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.15/lib/mono/Xamarin.TVOS/System.Core.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.15/lib/mono/Xamarin.TVOS/System.Json.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.15/lib/mono/Xamarin.TVOS/System.Net.Http.dll

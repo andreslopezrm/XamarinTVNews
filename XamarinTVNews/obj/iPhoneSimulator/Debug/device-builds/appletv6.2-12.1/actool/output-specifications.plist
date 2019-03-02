@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bundle-id</key>
+		<string>com.examples.XamarinTVNews.asset-pack-0TG1MMTC39939</string>
+		<key>bundle-path</key>
+		<string>/Users/andreslopez/Documents/XCode/XamarinTVNews/XamarinTVNews/obj/iPhoneSimulator/Debug/device-builds/appletv6.2-12.1/actool/OnDemandResources/com.examples.XamarinTVNews.Loading.assetpack</string>
+		<key>tags</key>
+		<array>
+			<string>Loading</string>
+		</array>
+	</dict>
+</array>
+</plist>
